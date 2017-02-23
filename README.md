@@ -8,6 +8,6 @@ This is the second version of this portfolio, utilizing simply yet beautifully r
 
 ### Template
 
-Paid for [Pixelarity](https://pixelarity.com/) service and downloaded Aerial by [HTML5 UP](html5up.net)
+Paid for [Pixelarity](https://pixelarity.com/) service and downloaded the Indivisible (jekyll) theme.
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 For Questions/comments/issues = just [email](aj@lkn.io) or find AJ on [Twitter](https://twitter.com/ajlkn)
