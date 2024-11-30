@@ -1,6 +1,6 @@
 # Portfolio
 
-This is the repository of the website [charmainebonifacio.com](http://charmainebonifacio.com).
+This is the repository of the website [charmainebonifacio.com](http://www.charmainebonifacio.com).
 It is hosted directly from the repository as a [GitHub Pages](https://pages.github.com/) website.
 This is the second version of this portfolio, utilizing simply yet beautifully responsive pages from [Pixelarity](https://pixelarity.com/), created by [AJ](https://twitter.com/ajlkn)
 
