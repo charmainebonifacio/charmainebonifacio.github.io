@@ -3,7 +3,7 @@ title: Charmaine Bonifacio
 tagline: Modeller/GIS Analyst
 description: Work portfolio
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "charmainebonifacio.com" # the base hostname & protocol for your site
+url: "http://www.charmainebonifacio.com" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
